@@ -69,7 +69,7 @@
 ### Cloud, DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,linux,git,github,nginx" />
 </p>
 
 ---
