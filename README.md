@@ -124,7 +124,7 @@ A personal music streaming application inspired by Spotify, featuring customizab
 
 **Tech Stack:** Java | Spring Boot | React Native | Expo | PostgreSQL | Docker
 
-🔗 [View Repository](https://github.com/KaranPushes/YAMA-Yet-Another-Music-App-)
+🔗 [View Repository](https://github.com/KaranPushes/YAMA-Yet-Another-Music-App)
 
 ---
 
