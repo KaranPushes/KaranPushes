@@ -91,7 +91,7 @@ A full-stack live streaming platform designed to deliver real-time video streami
 
 **Tech Stack:** Next.js | Spring Boot | REST APIs | PostgreSQL | WebSockets | MediaMTX | Docker | Kubernetes
 
-🔗 [View Repository](https://github.com/KaranPushes/Live-Streaming-Platform)
+🔗 [View Repository](https://github.com/KaranPushes/StreamNova)
 
 ---
 
