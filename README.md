@@ -95,20 +95,20 @@ A full-stack live streaming platform designed to deliver real-time video streami
 
 ---
 
-### 🤖 2. LearnMate AI
-An AI-powered PDF assistant that allows users to upload documents and interact with their content through intelligent question answering using Retrieval-Augmented Generation (RAG).
+### 🤖 2. RepoChat
+An AI-powered code assistant that lets developers ask questions about any GitHub codebase and get answers grounded in the actual code, with file and line citations, using Retrieval-Augmented Generation (RAG).
 
-- 📄 Upload PDFs and ask questions about their content.
-- 🧠 Uses RAG to retrieve relevant document context.
-- 🔍 Generates context-aware answers using Google Gemini.
+- 📂 Index a repository and ask natural-language questions about how it works.
+- 🔍 Hybrid retrieval combining vector search and BM25 with Reciprocal Rank Fusion.
+- 🧠 Generates context-aware answers using Google Gemini, grounded only in retrieved code.
+- 📌 Cites file paths and line ranges, and verifies each citation against the retrieved code.
+- 🛡️ Treats repository content as untrusted data to resist prompt injection.
 - 🗄️ Uses ChromaDB for vector storage and semantic retrieval.
-- 🐳 Containerized with Docker and automated builds using GitHub Actions.
+- 📊 Evaluated with a hand-written question set (hit@3 and answer correctness).
 
-**Tech Stack:** Python | Streamlit | LangChain | ChromaDB | Google Gemini | Docker | GitHub Actions
+**Tech Stack:** Python | FastAPI | React | ChromaDB | BM25 | Google Gemini
 
-👥 Collaborative project built with [Mayank Mehta](https://github.com/mayankmehta19032003).
-
-🔗 [View Repository](https://github.com/mayankmehta19032003/LearnMate-AI)
+🔗 [View Repository](https://github.com/KaranPushes/RepoChat)
 
 ---
 
